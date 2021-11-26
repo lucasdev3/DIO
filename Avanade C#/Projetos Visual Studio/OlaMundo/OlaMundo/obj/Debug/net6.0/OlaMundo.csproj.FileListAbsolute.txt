@@ -1,0 +1,30 @@
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.exe
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.deps.json
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.runtimeconfig.json
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.dll
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\ref\OlaMundo.dll
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.pdb
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfo.cs
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.dll
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\ref\OlaMundo.dll
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.pdb
+C:\Users\W10L\Documents\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.genruntimeconfig.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.exe
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.deps.json
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.runtimeconfig.json
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\ref\OlaMundo.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.pdb
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfo.cs
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\ref\OlaMundo.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.pdb
+C:\Users\W10L\Documents\DIO\Avanade C#\Projetos Visual Studio\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.genruntimeconfig.cache

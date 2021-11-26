@@ -1,0 +1,15 @@
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\bin\Debug\net6.0\Alunos.exe
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\bin\Debug\net6.0\Alunos.deps.json
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\bin\Debug\net6.0\Alunos.runtimeconfig.json
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\bin\Debug\net6.0\Alunos.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\bin\Debug\net6.0\ref\Alunos.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\bin\Debug\net6.0\Alunos.pdb
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.csproj.AssemblyReference.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.AssemblyInfoInputs.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.AssemblyInfo.cs
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.csproj.CoreCompileInputs.cache
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\ref\Alunos.dll
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.pdb
+C:\Users\W10L\Documents\DIO\Avanade C#\Primeiros Passos com .Net\Alunos\Alunos\obj\Debug\net6.0\Alunos.genruntimeconfig.cache
