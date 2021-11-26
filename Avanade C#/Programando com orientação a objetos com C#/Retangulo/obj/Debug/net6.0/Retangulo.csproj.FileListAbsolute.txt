@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\bin\Debug\net6.0\Retangulo.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\bin\Debug\net6.0\Retangulo.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\bin\Debug\net6.0\Retangulo.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\bin\Debug\net6.0\Retangulo.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\bin\Debug\net6.0\ref\Retangulo.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\bin\Debug\net6.0\Retangulo.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\ref\Retangulo.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Retangulo\obj\Debug\net6.0\Retangulo.genruntimeconfig.cache

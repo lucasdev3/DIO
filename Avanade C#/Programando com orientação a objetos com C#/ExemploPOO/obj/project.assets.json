@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\DIO\\Avanade C#\\Primeiros Passos com .Net\\Alunos\\Alunos\\Alunos.csproj",
-      "projectName": "Alunos",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\DIO\\Avanade C#\\Primeiros Passos com .Net\\Alunos\\Alunos\\Alunos.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\DIO\\Avanade C#\\Programando com orientação a objetos com C#\\ExemploPOO\\ExemploPOO.csproj",
+      "projectName": "ExemploPOO",
+      "projectPath": "C:\\Users\\lucas\\source\\repos\\DIO\\Avanade C#\\Programando com orientação a objetos com C#\\ExemploPOO\\ExemploPOO.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\DIO\\Avanade C#\\Primeiros Passos com .Net\\Alunos\\Alunos\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\source\\repos\\DIO\\Avanade C#\\Programando com orientação a objetos com C#\\ExemploPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
