@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\bin\Debug\net6.0\Escola.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\bin\Debug\net6.0\Escola.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\bin\Debug\net6.0\Escola.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\bin\Debug\net6.0\Escola.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\bin\Debug\net6.0\ref\Escola.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\bin\Debug\net6.0\Escola.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\ref\Escola.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Escola\obj\Debug\net6.0\Escola.genruntimeconfig.cache

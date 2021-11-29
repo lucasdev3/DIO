@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploPOO", "ExemploPOO\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retangulo", "Retangulo\Retangulo.csproj", "{6A80D28A-D10D-470F-82A7-F26BFA26A257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escola", "Escola\Escola.csproj", "{8A1CB454-BE72-4643-A70E-744C54B62A43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6A80D28A-D10D-470F-82A7-F26BFA26A257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A80D28A-D10D-470F-82A7-F26BFA26A257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A80D28A-D10D-470F-82A7-F26BFA26A257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1CB454-BE72-4643-A70E-744C54B62A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1CB454-BE72-4643-A70E-744C54B62A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1CB454-BE72-4643-A70E-744C54B62A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1CB454-BE72-4643-A70E-744C54B62A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
