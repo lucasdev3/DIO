@@ -8,6 +8,9 @@ namespace Escola
 
         public int Idade {get; set;}
         
-        
+        public virtual void Apresentar(){
+            Console.WriteLine($"Ola, meu nome é {Nome}");
+        }
+
     }
 }

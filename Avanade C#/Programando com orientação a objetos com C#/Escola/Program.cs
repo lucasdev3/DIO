@@ -20,8 +20,8 @@ namespace Escola{
             p1.Idade = 45;
             p1.Salario = 2000;
 
-            Console.WriteLine($"Ola meu nome é : {a1.Nome} tirei nota {a1.Nota}");
-            Console.WriteLine($"Ola sou o professor {p1.Nome} e recebo {p1.Salario}");
+            a1.Apresentar();
+            p1.Apresentar();
         }
     }
 }

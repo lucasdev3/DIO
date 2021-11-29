@@ -6,9 +6,10 @@ namespace Escola
     public class Aluno : Pessoa{
 
         public float Nota{get; set;}
-        public void ApresentarAluno(){
+        
 
-            Console.WriteLine($"Nota: {Nota}");
+        public override void Apresentar(){
+            Console.WriteLine($"Olá, meu nome é {Nome} e minha nota foi de {Nota}");
         }
     }
 }

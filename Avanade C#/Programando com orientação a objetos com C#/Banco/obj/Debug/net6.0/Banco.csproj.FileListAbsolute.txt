@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\bin\Debug\net6.0\ref\Banco.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\ref\Banco.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache

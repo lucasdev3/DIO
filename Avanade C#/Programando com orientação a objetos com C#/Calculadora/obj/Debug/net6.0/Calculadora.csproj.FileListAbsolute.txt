@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\bin\Debug\net6.0\ref\Calculadora.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
