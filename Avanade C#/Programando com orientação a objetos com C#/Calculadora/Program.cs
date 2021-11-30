@@ -1,5 +1,6 @@
 ﻿using System;
 using Calculadora.Models;
+using Calculadora.Interfaces;
 
 namespace Calculadora{
 
@@ -7,12 +8,13 @@ namespace Calculadora{
 
         public static void Main(string[] args){
 
-            
-            Calculos calc = new Calculos();
+            ICalculadora calc = new Calculos();
+            // Calculos calc = new Calculos();
 
-            Console.WriteLine($"Resultado da primeira soma: {calc.Somar(10, 10)}");
-            Console.WriteLine($"O resultado da segunda soma: {calc.Somar(10, 10, 10)}");
-
+            Console.WriteLine($"Resultado da soma: {calc.Somar(10, 10)}");
+            Console.WriteLine($"Resultado da subtracao: {calc.Subtrair(10, 10)}");
+            Console.WriteLine($"Resultado da divisao: {calc.Dividir(10, 10)}");
+            Console.WriteLine($"Resultado da Multiplicacao: {calc.Multiplicar(10, 10)}");
         }
     }
 }
