@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\bin\Debug\net6.0\ref\TrabalhandoComArquivos.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\ref\TrabalhandoComArquivos.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Programando com orientação a objetos com C#\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.genruntimeconfig.cache
