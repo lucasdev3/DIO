@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\bin\Debug\net6.0\ref\Construtores.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\ref\Construtores.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
