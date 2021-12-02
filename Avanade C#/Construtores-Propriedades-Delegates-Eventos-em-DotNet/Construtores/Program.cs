@@ -7,17 +7,17 @@ namespace ExemploConstrutores
     {
         static void Main(string[] args)
         {
+
+            Aluno a1 = new Aluno("Lucas", "Souza");
             
-            Console.Write("Nome: ");
-            string nome = Console.ReadLine();
+            // Log log = Log.GetInstance();
+            // log.PropriedadeLog = "Teste instancia";
 
-            Console.Write("Sobrenome: ");
-            string sobrenome = Console.ReadLine();
+            // Log log2 = Log.GetInstance();
+            // System.Console.WriteLine(log2.PropriedadeLog);
 
-            Pessoa p1 = new Pessoa(nome, sobrenome);
-
-            Console.WriteLine(p1.Apresentar());
-            
+            // Pessoa p1 = new Pessoa();
+            // p1.Apresentar();
 
         } 
     }

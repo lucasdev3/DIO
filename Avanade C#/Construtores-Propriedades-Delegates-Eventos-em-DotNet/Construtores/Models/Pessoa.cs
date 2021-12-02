@@ -5,11 +5,11 @@ namespace Construtores.Models
         private string nome;
         private string sobrenome;
 
-        public Pessoa()
-        {
-            nome = string.Empty;
-            sobrenome = string.Empty;
-        }
+        // public Pessoa()
+        // {
+        //     nome = string.Empty;
+        //     sobrenome = string.Empty;
+        // }
 
         public Pessoa(string nome, string sobrenome)
         {
@@ -19,7 +19,7 @@ namespace Construtores.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Ola meu nome é {nome} {sobrenome}");
+            System.Console.WriteLine($"Olá meu nome é: {nome} {sobrenome}");
         }
     }
 }
