@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\bin\Debug\net6.0\GetsSets.exe
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\bin\Debug\net6.0\GetsSets.deps.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\bin\Debug\net6.0\GetsSets.runtimeconfig.json
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\bin\Debug\net6.0\GetsSets.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\bin\Debug\net6.0\ref\GetsSets.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\bin\Debug\net6.0\GetsSets.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.AssemblyInfo.cs
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\ref\GetsSets.dll
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.pdb
+C:\Users\lucas\source\repos\DIO\Avanade C#\Construtores-Propriedades-Delegates-Eventos-em-DotNet\GetsSets\obj\Debug\net6.0\GetsSets.genruntimeconfig.cache

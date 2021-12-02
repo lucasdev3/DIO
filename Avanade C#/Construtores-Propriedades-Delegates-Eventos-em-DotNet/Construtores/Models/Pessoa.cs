@@ -2,8 +2,8 @@ namespace Construtores.Models
 {
     public class Pessoa
     {
-        private string nome;
-        private string sobrenome;
+        private readonly string nome;
+        private readonly string sobrenome;
 
         // public Pessoa()
         // {
