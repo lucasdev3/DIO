@@ -35,7 +35,7 @@ const inserirItem = (evento) => {
     const texto = evento.target.value;
     if (tecla === 'Enter') {
         const banco = getBanco();
-        banco.push({'tarefa': texto, 'status': 'unchecked'})
+        banco.push({'tarefa': texto, 'status': ''})
         setBanco(banco);
         atualizarTela();
         // limpar campo de digitar tarefa
