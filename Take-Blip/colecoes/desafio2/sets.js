@@ -5,4 +5,4 @@ function valoresUnicos(array) {
     return [...mySet];
 }
 
-console.log()
+console.log(valoresUnicos(meuArray));
