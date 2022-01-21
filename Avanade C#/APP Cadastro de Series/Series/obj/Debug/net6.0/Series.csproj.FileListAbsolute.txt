@@ -1,0 +1,15 @@
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/bin/Debug/net6.0/Series
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/bin/Debug/net6.0/Series.deps.json
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/bin/Debug/net6.0/Series.runtimeconfig.json
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/bin/Debug/net6.0/Series.dll
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/bin/Debug/net6.0/ref/Series.dll
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/bin/Debug/net6.0/Series.pdb
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.csproj.AssemblyReference.cache
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.AssemblyInfoInputs.cache
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.AssemblyInfo.cs
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.dll
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/ref/Series.dll
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.pdb
+/home/lucas/Documentos/GitHub/DIO/Avanade C#/APP Cadastro de Series/Series/obj/Debug/net6.0/Series.genruntimeconfig.cache
