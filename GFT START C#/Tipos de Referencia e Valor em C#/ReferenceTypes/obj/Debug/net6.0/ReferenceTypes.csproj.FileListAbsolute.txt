@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.exe
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.deps.json
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.runtimeconfig.json
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.dll
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\bin\Debug\net6.0\ref\ReferenceTypes.dll
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.pdb
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.dll
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ref\ReferenceTypes.dll
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.pdb
+C:\Users\lucas\Documents\GitHub\DIO\GFT START C#\Tipos de Referencia e Valor em C#\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.genruntimeconfig.cache
